@@ -1,0 +1,27 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    gap: 50px;
+    background: #000;
+}
+.remove{
+    padding: 10px 30px;
+    font-size: 50px;
+    background: #8C6A5D;
+    border: solid 2px #fff;
+    color: #FAF3E0;
+}
+.number{
+    font-size: 70px;
+    font-weight: 700;
+    color: #fff;
+}
+.add{
+    padding: 10px 30px;
+    font-size: 50px;
+    background: #8C6A5D;
+    border: solid 2px #fff;
+    color: #FAF3E0;
+}
